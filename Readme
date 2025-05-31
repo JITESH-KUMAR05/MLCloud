@@ -1,0 +1,8 @@
+This will contain all the google colab files
+echo "# MLCloud" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JITESH-KUMAR05/MLCloud.git
+git push -u origin main
